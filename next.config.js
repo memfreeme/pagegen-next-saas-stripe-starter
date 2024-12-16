@@ -20,6 +20,14 @@ const nextConfig = {
         protocol: "https",
         hostname: "randomuser.me",
       },
+      {
+        protocol: "https",
+        hostname: "image.memfree.me",
+      },
+      {
+        protocol: "https",
+        hostname: "pagegen.ai",
+      },
     ],
   },
   experimental: {
